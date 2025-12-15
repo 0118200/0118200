@@ -17,7 +17,7 @@
   <!-- Tech Stack: Bahasa -->
   
   <img src="https://img.shields.io/badge/KiCAD-3D813F?logo=kicad&logoColor=white" alt="KiCAD" />
-  <img src="https://img.shields.io/badge/Eagle-000000?logo=eagle&logoColor=white" alt="Eagle" />
+<img src="https://img.shields.io/badge/EAGLE-F0542B?logo=eagle&logoColor=white" alt="Autodesk EAGLE" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ESP--IDF-4F46E5?logo=espressif&logoColor=white" alt="ESP-IDF" />
   <img src="https://img.shields.io/badge/FreeRTOS-00BB00?logo=freertos&logoColor=white" alt="FreeRTOS" />

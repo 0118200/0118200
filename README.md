@@ -24,4 +24,3 @@
 	</div>
 </details>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0118200)](https://github.com/0118200/github-readme-stats)

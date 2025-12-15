@@ -13,12 +13,29 @@
 </p>
 
 <div align="center">
+
+  <!-- Bahasa -->
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/MATLAB-FFA500?logo=matlab&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/VHDL-007ACC?logo=vhdl&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/Assembly-525252?logo=arm&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+
+  <!-- Embedded & Platform -->
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP--IDF-4F46E5?logo=espressif&logoColor=white" alt="ESP-IDF" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00BB00?logo=freertos&logoColor=white" alt="FreeRTOS" />
+
+  <!-- Android -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/KiCAD-000000?logo=kicad&logoColor=white" alt="KiCAD" />
+
 </div>

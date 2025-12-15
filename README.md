@@ -52,8 +52,6 @@
 - **[💰 SmartSpend – Android Expense Tracker](https://github.com/0118200/SmartSpend-Manage-Money-Android)**  
   *Android app for financial management with OCR receipt scanning (ML Kit), daily budget alerts, expense categorization, and visual charts (PieChart, historical graphs). Built with Java, Room, and SharedPreferences.*
 
-<img src="https://img.shields.io/badge/Most%20Used-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Most Used"/>
-
 <a href="https://github.com/0118200">
   <img src="https://img.shields.io/badge/-Hireable-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Hireable"/>
 </a>

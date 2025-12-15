@@ -24,8 +24,8 @@
 	</div>
 </details>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://wakatime.com/@0118200">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=0118200" alt="WakaTime Stats" />
   </a>
-</div>
+</div> -->

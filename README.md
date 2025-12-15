@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <!-- Bahasa -->
+  <!-- Tech Stack: Bahasa -->
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
@@ -31,11 +31,14 @@
   <img src="https://img.shields.io/badge/ESP--IDF-4F46E5?logo=espressif&logoColor=white" alt="ESP-IDF" />
   <img src="https://img.shields.io/badge/FreeRTOS-00BB00?logo=freertos&logoColor=white" alt="FreeRTOS" />
 
-  <!-- Android -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+  <!-- EDA & FPGA -->
+  <img src="https://img.shields.io/badge/KiCAD-3D813F?logo=kicad&logoColor=white" alt="KiCAD" />
+  <img src="https://img.shields.io/badge/Eagle-000000?logo=eagle&logoColor=white" alt="Eagle" />
+  <img src="https://img.shields.io/badge/Proteus-1A73E8?logo=proteus&logoColor=white" alt="Proteus" />
+  <img src="https://img.shields.io/badge/Xilinx-000000?logo=xilinx&logoColor=white" alt="Xilinx" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/KiCAD-000000?logo=kicad&logoColor=white" alt="KiCAD" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
 
 </div>

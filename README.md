@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/muchamad-fauzan-atha-artawan/">
     <img src="https://img.shields.io/badge/-LinkedIn-646464?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/dimflix">
+  <a href="https://www.instagram.com/muchfauzan_/#">
     <img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@dimflix">
+  <a href="https://medium.com/@0118200">
     <img src="https://img.shields.io/badge/-Medium-94e2d5?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium"/>
   </a>
 </div>

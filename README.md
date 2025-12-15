@@ -6,9 +6,8 @@
   </a>
 </div>
 
-<details open>
-<summary><h3>📊 Statistics</h3></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0118200&layout=compact&theme=transparent" alt="Top Languages"/>
-  </div>
-</details>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=0118200&label=Profile%20views&color=0e75b6&style=flat" alt="yapping" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>

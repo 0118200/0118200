@@ -55,7 +55,7 @@
 <a href="https://github.com/0118200">
   <img src="https://img.shields.io/badge/-Hireable-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Hireable"/>
 </a>
-
+<img src="https://github.com/user-attachments/assets/df52ca9f-2e9e-4b65-b29d-9e6c91003dcd" width="100" alt="Pixel Cat"/>
 <a href="https://github.com/0118200">
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
 </a>

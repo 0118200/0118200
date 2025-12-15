@@ -6,12 +6,9 @@
   </a>
 </div>
 
-<!-- === GitHub STATS === -->
 <details open>
 <summary><h3>📊 Statistics</h3></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0118200&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats"/>
-    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0118200&layout=compact&theme=transparent" alt="Top Languages"/>
   </div>
 </details>

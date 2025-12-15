@@ -18,7 +18,7 @@
 </div>
 
 <details open>
-<summary><h3>📊 Statistics | </h3> </summary>
+<summary><h3>📊 Statistics </h3> </summary>
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0118200&layout=compact&theme=transparent"/>
 	</div>

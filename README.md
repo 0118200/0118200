@@ -21,6 +21,7 @@
 <summary><h3>📊 Statistics | </h3> </summary>
 	<div align="center">
 	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0118200&layout=compact&theme=transparent"/>
-		[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0118200)](https://github.com/0118200/github-readme-stats)
 	</div>
 </details>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0118200)](https://github.com/0118200/github-readme-stats)

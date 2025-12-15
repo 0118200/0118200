@@ -13,7 +13,15 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-FFA500?logo=matlab&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/VHDL-007ACC?logo=vhdl&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/Assembly-525252?logo=arm&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
 </div>

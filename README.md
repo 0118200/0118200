@@ -12,7 +12,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />

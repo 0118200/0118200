@@ -57,6 +57,4 @@
 </a>
 <a href="https://github.com/0118200">
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/><img src="https://github.com/user-attachments/assets/df52ca9f-2e9e-4b65-b29d-9e6c91003dcd" width="100" alt="Pixel Cat"/>
-</a>
-
-<img src="https://img.shields.io/badge/Status-Exploring%20Embedded%20Systems-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" alt="Status"/>  <img src="https://img.shields.io/badge/Motto-Whispering%20to%20hardware...-gold?style=for-the-badge&logo=github&logoColor=black" alt="Motto"/>
+</a>  <img src="https://img.shields.io/badge/Status-Exploring%20Embedded%20Systems-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" alt="Status"/> 

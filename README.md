@@ -43,3 +43,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
 
 </div>
+### 🔧 Featured Projects
+
+- **[🤖 ANFIS Yaw Controller for Robotic Leg](https://github.com/0118200/robot-leg-setpoint-control-anfis)**  
+  *MATLAB-based Adaptive Neuro-Fuzzy Inference System (ANFIS) that smoothly controls robotic leg yaw to a target setpoint. Compares ANFIS vs traditional FIS in accuracy, smoothness, and adaptability.*
+
+- **[💰 SmartSpend – Android Expense Tracker](https://github.com/0118200/SmartSpend-Manage-Money-Android)**  
+  *Android app for financial management with OCR receipt scanning (ML Kit), daily budget alerts, expense categorization, and visual charts (PieChart, historical graphs). Built with Java, Room, and SharedPreferences.*

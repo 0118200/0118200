@@ -32,12 +32,16 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Assembly-525252?logo=arm&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-
-  <!-- Embedded & Platform -->
-
-  <!-- EDA & FPGA -->
-
-  <!-- Tools -->
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Make-A94B00?logo=gnu&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?logo=c&logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/RTOS-FF6B6B?logoColor=white" alt="RTOS" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
 

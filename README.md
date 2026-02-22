@@ -43,7 +43,7 @@
 
 </div>
 
-### 🔧 Featured Projects
+### Featured Projects
 
 - **[🤖 ANFIS Yaw Controller for Robotic Leg](https://github.com/0118200/robot-leg-setpoint-control-anfis)**  
   *MATLAB-based Adaptive Neuro-Fuzzy Inference System (ANFIS) that smoothly controls robotic leg yaw to a target setpoint. Compares ANFIS vs traditional FIS in accuracy, smoothness, and adaptability.*
@@ -58,3 +58,7 @@
   <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/><img src="https://github.com/user-attachments/assets/df52ca9f-2e9e-4b65-b29d-9e6c91003dcd" width="100" alt="Pixel Cat"/>
 </a>  <img src="https://img.shields.io/badge/Status-Exploring%20Embedded%20Systems-blueviolet?style=for-the-badge&logo=arduino&logoColor=white" 
 
+___
+###     Top Languages
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0118200&layout=compact)

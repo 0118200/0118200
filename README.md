@@ -65,4 +65,4 @@
 ___
 ###     Top Languages
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0118200&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0118200&layout=compact&cache_seconds=1800)
